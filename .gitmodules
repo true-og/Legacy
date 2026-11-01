@@ -1,0 +1,12 @@
+[submodule "Staff-OG-Legacy"]
+	path = Staff-OG-Legacy
+	url = https://git.trueog.net/trueog/Staff-OG-Legacy
+[submodule "SubstAgent-Old"]
+	path = SubstAgent-Old
+	url = https://git.trueog.net/trueog/SubstAgent-Old
+[submodule "Multiverse-Core"]
+	path = Multiverse-Core
+	url = https://git.trueog.net/trueog/Multiverse-Core
+[submodule "Paper"]
+	path = Paper
+	url = https://git.trueog.net/trueog/Paper
