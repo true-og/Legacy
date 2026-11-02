@@ -13,3 +13,6 @@
 [submodule "Bukkit"]
 	path = Bukkit
 	url = https://git.trueog.net/trueog/Bukkit
+[submodule "Spigot-API"]
+	path = Spigot-API
+	url = https://git.trueog.net/trueog/Spigot-API
