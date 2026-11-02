@@ -10,3 +10,6 @@
 [submodule "Paper"]
 	path = Paper
 	url = https://git.trueog.net/trueog/Paper
+[submodule "Bukkit"]
+	path = Bukkit
+	url = https://git.trueog.net/trueog/Bukkit
