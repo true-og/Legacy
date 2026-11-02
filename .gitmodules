@@ -16,3 +16,6 @@
 [submodule "Spigot-API"]
 	path = Spigot-API
 	url = https://git.trueog.net/trueog/Spigot-API
+[submodule "Pufferfish"]
+	path = Pufferfish
+	url = https://git.trueog.net/trueog/Pufferfish
